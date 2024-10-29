@@ -8,4 +8,5 @@ The Odin Project provided two images to assist with the design of the landing pa
 
 
 Here is what my solution looks like:
+
 ![My solution](/references/my-completed-design.png)
